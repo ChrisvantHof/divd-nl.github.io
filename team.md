@@ -21,7 +21,6 @@ Meanwhile, their research also serves as an empirical base to discover trends in
 - [Raymond Bierens](https://www.linkedin.com/in/raymond-bierens-7a1508/): Advisor
 - [Frank Breedijk](https://www.linkedin.com/in/seccubus/): Researcher and building response capacity with the [Dutch Security Meldpunt](https://www.securitymeldpunt.nl/)
 - [Floor Terra](https://responsibledisclosure.nl/): Privacy advisor and researcher
-- [Matthijs Koot](https://www.linkedin.com/in/mrkoot/): Researcher
 
 <hr>
 ### Board
